@@ -33,7 +33,7 @@ Eg: If you are loading it to your main.js , make sure to use like this
 | addEffect()    | None          | None     |
 | setSkew()      | Maximum Skew  | 0 to 360 |
 | removeEffect() | None          | None     |
-| setSpeedRate() | Speed Rate    | 0 to 1   | 0 to 1 is recommended you can set to anything
+| setSpeedRate() | Speed Rate    | 0 to 1   |
 
 ## Properties Explained
 * addEffect() is used to add this scrolling effect to the element you initialized.
